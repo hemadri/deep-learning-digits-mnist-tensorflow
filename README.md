@@ -1,2 +1,3 @@
-# deep-learning-digits-mnist
-Learning Deep Learning with MNIST data set, extracting, creating images, training, testing
+# deep-learning-digits-mnist-tensorflow
+## Learning Deep Learning with MNIST data set usint tensorflow,
+### extracting, creating images, training, testing
